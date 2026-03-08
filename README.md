@@ -5,10 +5,10 @@ SDG 3 – Clinic Appointment System: A software prototype that improves access t
 This project supports **Sustainable Development Goal 3 (Good Health and Well-Being)** by improving access to healthcare services within a university environment through a digital clinic appointment system.
 ## Team Members & Roles
 - Raisa Tasnim Hossain – Product Owner & UI/UX Designer 
-- Ho Wei Lun – Scrum Master  
-- Suhaib Farakh –  
-- Nabeeha Ali Salim – Prototype Developer  
-- Raghad Abdalhalim Zainalaabdeen Abdalhalim  – Tester & Documentation Lead  
+- Nabeeha Ali Salim – Prototype Developer & Scrum Master
+- Raghad Abdalhalim Zainalaabdeen Abdalhalim  – Tester & Documentation Lead
+- Ho Wei Lun
+- Suhaib Farakh
 ## Project Description
 The SDG3 Clinic Appointment System is a software prototype designed for **university students and clinic administrative staff**. Currently, many university clinics rely on manual appointment booking, which often leads to long waiting times, overcrowding, and inefficient schedule management.
 This system allows students to **book clinic appointments online** by viewing available time slots, while clinic staff can **manage appointments digitally**. The solution reduces waiting times, improves organisation, and enhances the overall healthcare experience, contributing to better student health and well-being.

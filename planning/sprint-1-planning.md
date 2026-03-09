@@ -7,7 +7,8 @@ Design the core structure of the Clinic Appointment System by defining requireme
 - Define project requirements
 - Create Use Case Diagram
 - Create Class Diagram
-- Create user stories 
+- Create user stories
+- Creating testing plan 
 - Design UI wireframes
   
 

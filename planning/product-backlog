@@ -1,0 +1,20 @@
+Product Backlog: 
+
+Create product vision: Define the problem and SDG connection to the clinic appointment system
+Create user stories: system requirements according to different perspectives of users which are students, clinic staff and admins.
+Create product backlog: List of all tasks 
+Create use-case diagrams: modelling interactions between users and the system
+Create class diagram: Define the system structure + relationships between classes 
+Design UI wireframes: Sketch the interface screens( Login , dashboard and booking page)
+Develop early prototype: Creating an initial version 
+Implement appointment booking : Allow students to book the appointments online 
+Implement appointment cancellation: allow users to cancel existing appointments \
+Implement appointment rescheduling: Allow users to change any existing appointments times 
+Implement staff appointment management: Allow clinic staff to manage appointments 
+Implement admin user management: Allow admin to manage system users
+Create testing plan: Creating objective and test cases 
+Conduct usability testing: Evaluate the system actual usability with users 
+Record test results: document outcomes of the planned test cases 
+Collect user feedback: Gather feedback from users about the system usability 
+Prepare final report
+Prepare presentation slides 

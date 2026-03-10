@@ -92,7 +92,85 @@ Steps:
 •	Select a user account 
 •	Modify the user role permissions 
 
-Testing Results 
+Testing Results : 
+Recordings of all the outcomes from the defined test cases ( TC01 – TC11).
+Each test case is evaluated carefully during the clinic appointment system protype testing and the results are shown ( Pass or fail + relevant comment)
+Testing environment: done using the designed user interface screens with the system functionality. The prototype was made up of UI sketches that show the key interactions ( viewing appointments slots, booking appointments , managing existing appointments). Testing was carried out in an environment which was controlled: participants interacted and tester observed actions and recorded the results and feedback 
+TC01 – View available appointment slots 
+Result: Pass
+Result Comment:  the system successfully displayed available appointment slots for the student
+
+TC02 – Refresh appointment availability  
+Result: Pass
+Result Comment: Refreshing the page updated the list correctly 
+
+TC03 – Book an appointment  
+Result: Pass
+Result Comment: The student successfully picked a date and time and confirm the booking 
+
+TC04 – Attempt to book an unavailable slot
+Result: Pass
+Result Comment: The system prevented the booking and informed user that the slot in unavailable 
+
+TC05 – Cancel an appointment 
+Result: Pass
+Result Comment: The student successfully cancelled an existing appointment 
+
+TC06 – Reschedule an appointment  
+Result: Pass
+Result Comment: The system allowed the student to choose a different time slot and update it successfully 
+
+TC07 – View daily appointments  
+Result: Pass
+Result Comment: Clinic staff were able to view the list of the scheduled appointments for the day
+
+TC08 – Refresh appointment dashboard   
+Result: Pass
+Result Comment: Refreshing updated the appointment list correctly 
+
+TC09 – Update appointment status  
+Result: Pass
+Result Comment: The clinic staff were able to change the appointment status 
+
+TC10 – View system users 
+Result: Pass
+Result Comment: The admin dashboard successfully displayed the list of the users and their roles 
+
+TC11 – Modify user Role
+Result: Pass
+Result Comment : The admin management allowed editing of the user roles.
+
 User feedback 
+To be able to perfectly evaluate the usability of the clinic appointment system prototype , the following users were asked to interact with the system. They performed basic tasks ( viewing appointments slots, booking appointments , managing existing appointments). Their feedback is then collected and it helped with understanding how intuitive the interface is and it also helped with identifying areas for improvement.
+Participant 1 – Student 
+Feedback from participant:  The booking page was easy to understand and simple to navigate and the dashboard clearly showed the available options.
+Observation from tester: the participant was able to complete the booking task with no assitance
+
+Participant 2 – Student 
+Feedback from participant: Viewing and cancelling appointments was straightforward
+Observation from tester: The participant completed a cancellation successfully but suggested adding a confirmation message 
+
+Participant 3 – Clinic staff
+Feedback from participant: The dashboard clearly displays daily appointments and quick acess to status updates 
+Observation from tester: The participant completed a status updaye quickly and understood the dashboard 
+
+Participant 4 – Admin
+Feedback from participant: The admin user management section is simple and clearly displays user roles
+Observation from tester: The participant successfully edited user roles and ugessted adding a search feature for faster management 
+
 System improvements 
+Based on the collected testing results and feedback from participants, some improvements were identified. The changes are recommended to be able to improve the overall functionality and effectiveness of the the clinic appointment system.
+Aim: 
+	Enhance usability , clarity and overall user experience.
+
+Improvement 1 – Confirmation message 
+Comment: Adding a confirmation pop up after each successful update to reassure users 
+
+ Improvement 2 – Searching 
+Comment: Add search bars for admin and clinic staff to be able to locate specific users
+
+Improvement 3 – Filtering option 
+Comment: add a filtering option for staff so they can be able to filter appointment by their status ( confirmed , pending or completed) to make the overall process easy and fast.
+
+
 

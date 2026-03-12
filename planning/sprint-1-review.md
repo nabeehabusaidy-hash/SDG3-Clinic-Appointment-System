@@ -1,13 +1,13 @@
-# Sprint 1 Review and Retrospective
+# Sprint 1 Review and Retrospective 
 
-## Sprint Review – What Was Completed
+## Sprint 1 Review: what was completed 
+By the end of sprint 1 most of the design phase for the clinic appointment system was done. This included defining the project requirments , creating use case and class diagram and desiging UI wireframes for the system. This helped with sprint 2 tasks and also establish the basic structure and functionality of the system.
 
-During Sprint 1, the team focused on the design phase of the Clinic Appointment System. The main tasks completed include defining the project requirements, creating the Use Case Diagram, developing the Class Diagram, and designing the UI wireframes for the system. These activities helped establish the basic structure and functionality of the system.
+## What went well
+The team sucessfully worked together to identify all the potential main features and actors and picked whats needed considering the project requirments . Creating the UML diagrams made it clear how the components interact and this helped with designing the UI wireframes.
 
-## What Went Well
 
-The team successfully collaborated to identify the main system features and actors. Creating the UML diagrams helped clarify how the system components interact. The UI wireframes also helped visualize how users will interact with the system interface.
+## What needs improvment
+Time managment and communication during tasks need improvment as many tasks depend on the completion of others.
 
-## What Needs Improvement
 
-The team can improve by allocating time more efficiently and ensuring clearer communication during task distribution. For the next sprint, the team will focus on improving collaboration and completing the remaining development tasks.

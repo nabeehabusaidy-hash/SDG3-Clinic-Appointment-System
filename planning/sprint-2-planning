@@ -1,18 +1,23 @@
 # Sprint Goal 
-Develop the working prototype of the Clinic appointment system and also perform usability testing to evaluate the system functionality and the overall users experience.
+The goal for sprint 2 is to develop the full working prototype by improving the early prototype of the clinic appointment system based on usability testing results so that we ensure the system is more user friendly and functional.
 
-## Selected Tasks 
-- Develop improved prototype of the system 
-- Implement appointment booking functionality 
-- Implement appointment cancellation and rescheduling 
-- Implement clinic staff appointment managment 
+
+## Selected Tasks: 
 - Run usability testing with users
 - Collect user feedback 
 - Fix any usability issues if identified 
 - Document test results 
+- Develop the  improved prototype of the system 
+- Implement appointment booking functionality 
+- Implement appointment cancellation and rescheduling 
+- Implement clinic staff appointment management 
+- Implement admin management 
+
 
 ## Sprint Duration 
 Week 3
 
 ## Expected outcome 
-By the end of sprint 2 the team will have a functional prototype of the clinic appointment system with all the main features. The system will also be tested with users and feedback will be collected to identify any potential improvements.
+The expected outcome by the end of sprint 2 is a functional prototype of the clinic appointment system that contains all the main features. The early prototype will also be tested with users and feedback will be collected directly for the purpose of an improved efficient user focused final prototype.
+
+

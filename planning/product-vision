@@ -1,17 +1,25 @@
+
 Product Vision 
-Problem: Most clinics in Universities still use manual appointment booking systems where every time students must visit the clinic to be able to schedule appointments. This leads to long waiting times and overcrowding for students as for the clinic staff it will cause inefficient schedule management. Moreover, students may also struggle to know which time slot is available before coming to the clinic.
+Nowadays , students struggle with efficiently managing their daily schedules and the fact that most Universities still use a manual appointment booking system isn't helping at all. Students have to physically visit the clinic each time to be able to schedule an appointment which is not a fast or easy process as it leads to multiple students overcrowding the place. This causes long waiting time and inefficient schedule management for both students and clinic staff.
+
 
 Target Users: 
-University students who need to book medical appointments at their campus clinic.
-Clinic staff to be able to manage appointments and monitor their daily schedule.
-System administrators to be able to manage user access.
+The target user for the Clinic appointment systems is university students who need to manage their healthcare by booking medical appointments at their campus clinic. Additionally, clinic staff so they can be able to manage the appointments by keeping everything up to date and monitor their daily schedule.
+Lastly, system administrators to be able to manage user access , roles and information.
+ 
 
 Proposed Solution:
-To create a digital clinic appointment booking system that allows students to be able to view available appointment slots beforehand and book clinic visits online. In addition regarding clinic staff it will let them view and manage scheduled appointments efficiently. 
+Our solution is to create a digital clinic appointment booking system that compliments user needs. For instance the system will allow students to view all the available appointment slots from their place and book based on what fits their busy schedules.
+In addition both clinic staff and admin can view and manage easily through the system 
+
 
 Value of the System:
-This system will improve access to healthcare services as students will be able to easily schedule appointments without having to physically visit the clinic beforehand each time. This will reduce the waiting time andalso improve how appointments are organized hence helping the clinic staff to manage everything more effectively. 
+Our system will help address  the struggles of students, clinic staff, and admins. As students will be able to easily schedule appointments without physically visiting the clinic and causing a crowded area hence also helping clinic staff from that aspect. This will reduce waiting time and also improve the management of students  for the clinic staff and management of users to the administrators. At the end of the day the system will lead to an organized easy approach.
+ 
 
 Contribution to Sustainable Development Goal 
-This project directly supports SDG 3 Good Health and Well-Being by improving access to healthcare services within the university . By changing the whole appointments process into a digital system it will ensure that students can receive medical care more conveniently and efficiently.
+As the system is improving healthcare services within the university it directly supports SDG 3 Good Health and Well Being. In conclusion changing the whole appointments process into a digital system ensures students receive medical care easily and efficiently.
+
+
+
 

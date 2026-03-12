@@ -3,122 +3,84 @@ The objective of testing the Clinic appointment system prototype is to evaluate 
 Testing Method :
 Usability Testing with several participants representing different user roles . Firstly , The users were asked to perform common tasks such as viewing available appointments slots , booking appointments , managing existing appointments. Secondly, the tester will observe whether the tasks can be completed successfully and then the outcomes and feedbacks will be recorded. Finally, participants provided feedback and it was analysed to identify potential improvements for the final prototype .
 Test Cases:
-Test Case ID: TC01(Login to the system)
+1.	Login to the system
 User Role: Student/Staff/Admin
 Expected Outcome: The user successfully logs into the system and accesses the correct dashboard
-Steps :
-•	Open the clinic appointment system login page
-•	Enter username and password
-•	Access the dashboard 
 
-Test Case ID: TC02 ( Book an appointment)
+2.	Book an appointment
 User role: Student 
 Expected outcome: The system successfully creates the appointment and displays a confirmation message 
 
-Steps:
-•	Open the appointment booking page 
-•	View available appointment slots 
-•	Select the preferred time
-•	Confirm the appointment booking 
 
-Test Case ID: TC03 (View available appointment slots)
+3.	View available appointment slots
 User Role: Student 
 Expected Outcome: The system simply displays all the available appointment slots for the selected dates. 
-Steps :
-•	Open the clinic appointment system interface
-•	Navigate to the appointment booking page
-•	View the list of the available appointment slots 
 
 
 
-Test Case ID: TC04 ( Cancel an appointment )
+4.	Cancel an appointment 
 User role: Student 
 Expected outcome: The system successfully cancels the appointment and removes it from the schedule 
 
-Steps:
-•	Open the list of existing appointments  
-•	Select a booked appointments 
-•	Click the cancel appointment option
-Test Case ID: TC05 ( Reschedule an appointment )
+5.	Reschedule an appointment 
 User role: Student 
 Expected outcome: The system updates the appointment with the new time slot 
 
-Steps:
-•	Open the appointment management  page 
-•	Select the existing appointment
-•	Choose the reschedule option 
-•	Select a new available time slot 
-Test Case ID: TC06 ( View daily appointments )
+6.	  View daily appointments 
 User role: Clinic Staff
 Expected outcome: The system displays a list of all scheduled appointments for the day  
 
-Steps:
-•	Log in to the clinic system
-•	Open the appointment management dashboard
-•	View the daily appointment schedule 
 
-Test Case ID: TC07 ( Update Appointment status )
+7.	Update Appointment status 
 User role: Clinic Staff
 Expected outcome: The system successfully updates the appointment status  
 
-Steps:
-•	Open the list of scheduled appointments 
-•	Select an appointment 
-•	Update the appointment status 
-
-Test Case ID: TC08 ( View System users  )
+8.	View System users 
 User role: Admin
 Expected outcome: The system displays a list of registered users 
-Steps:
-•	Log in to the system as an administrator 
-•	Navigate to the user management page 
 
-Test Case ID: TC09 ( Modify user role  )
+9.	 Modify user role  
 User role: Admin
 Expected outcome: The system successfully updates the users role 
-Steps:
-•	Open the user management page 
-•	Select a user account 
-•	Modify the user role permissions 
 
 
 Testing Results : 
-Recordings of all the outcomes from the defined test cases ( TC01 – TC09).
+Recordings of all the outcomes from the defined test cases 
 Each test case is evaluated carefully during the clinic appointment system protype testing and the results are shown ( Pass or fail + relevant comment)
 Testing environment: done using the designed user interface screens with the system functionality. The prototype was made up of UI sketches that show the key interactions ( viewing appointments slots, booking appointments , managing existing appointments). Testing was carried out in an environment which was controlled: participants interacted and tester observed actions and recorded the results and feedback 
-TC01 – Login to the system 
+Login to the system 
 Result: Pass
 Result Comment:  User successfully accessed the system dashboard  
 
-TC02 – Book an appointment  
+Book an appointment  
 Result: Pass
 Result Comment: The student successfully picked a date and time and confirm the booking 
 
-TC03 – View available appointment slots 
+View available appointment slots 
 Result: Pass
 Result Comment:  the system successfully displayed available appointment slots for the student
 
-TC04 – Cancel an appointment 
+Cancel an appointment 
 Result: Pass
 Result Comment: The student successfully cancelled an existing appointment 
 
-TC05 – Reschedule an appointment  
+Reschedule an appointment  
 Result: Pass
 Result Comment: The system allowed the student to choose a different time slot and update it successfully 
 
-TC06 – View daily appointments  
+View daily appointments  
 Result: Pass
 Result Comment: Clinic staff were able to view the list of the scheduled appointments for the day
 
-TC07 – Update appointment status  
+Update appointment status  
 Result: Pass
 Result Comment: The clinic staff were able to change the appointment status 
 
-TC08 – View system users 
+View system users 
 Result: Pass
 Result Comment: The admin dashboard successfully displayed the list of the users and their roles 
 
-TC09 – Modify user Role
+Modify user Role
 Result: Pass
 Result Comment : The admin management allowed editing of the user roles.
 

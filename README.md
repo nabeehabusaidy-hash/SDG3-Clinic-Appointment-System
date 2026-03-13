@@ -12,7 +12,6 @@ Planner and UI/UX designer: Raisa Tasnim
 System designer and documentation lead: Nabeeha Ali
 Prototype developer and testing lead: Raghad Abdalhalim
 Agile Coordinator and presentation supporter : Ho Wei Lun
-Suhaib Farakh
 
 
 ## Project Description 
